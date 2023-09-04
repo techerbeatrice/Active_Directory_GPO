@@ -25,3 +25,6 @@ _______________
 
 ![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/a9de3695-16e6-42ec-89e0-597eb8780e59)
 
+![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/ebe095b7-0c6f-48dc-b791-f1c7cc8a3e60)
+
+![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/4d5a80f9-21ce-417c-a349-34493abec418)
