@@ -22,9 +22,10 @@ _______________
 
 ![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/a8109aa7-7493-42f5-9743-ecc80d91e1d2)
 
-![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/03754bf3-b595-4a31-adbc-acdea2d073de)
+![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/54a02934-92f7-46e9-bdde-a349794cdc43)
 
-![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/a9de3695-16e6-42ec-89e0-597eb8780e59)
+![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/790a2d50-e181-438a-a5b1-b993b7ab63c7)
+
 
 ![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/ebe095b7-0c6f-48dc-b791-f1c7cc8a3e60)
 
