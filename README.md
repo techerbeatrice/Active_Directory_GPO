@@ -34,8 +34,17 @@ _______________
 
 ____
 
-**Faire rejoindre la machine cliente au domaine "wilders.lan"**   
+**Faire rejoindre la machine cliente au domaine "wilders.lan" et se connecter avec ses identifiants configurés dans la GPO**   
 
 ![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/6f236d3b-3668-4760-bf21-5a3a6e0cc1bd)
 
+![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/3c881af0-3f63-4d01-af5d-931a153074a9)
+
+_______
+
+**Impossibilité d'accéder au panneau de configuration telle que configurée dans la GPO**   
+
+![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/90248651-8b6a-4ff7-9da4-8722c70cd68d)
+
+![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/01a2be55-2a6f-48b2-b1ca-aed5bdd58a65)
 
