@@ -31,3 +31,11 @@ _______________
 ![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/ebe095b7-0c6f-48dc-b791-f1c7cc8a3e60)
 
 ![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/4d5a80f9-21ce-417c-a349-34493abec418)
+
+____
+
+**Faire rejoindre la machine cliente au domaine "wilders.lan"**   
+
+![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/6f236d3b-3668-4760-bf21-5a3a6e0cc1bd)
+
+
