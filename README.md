@@ -42,7 +42,7 @@ ____
 
 _______
 
-**Impossibilité d'accéder au panneau de configuration telle que configurée dans la GPO**   
+**Impossibilité en tant qu'utilisateur du groupe Wilders_Students d'accéder au panneau de configuration, restriction telle que configurée dans la GPO**   
 
 ![image](https://github.com/techerbeatrice/Active_Directory_GPO/assets/138071140/90248651-8b6a-4ff7-9da4-8722c70cd68d)
 
